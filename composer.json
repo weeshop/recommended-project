@@ -12,6 +12,10 @@
         {
             "type": "composer",
             "url": "https://mirror.drupalcode.cn"
+        },
+        {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
         }
     ],
     "require": {
